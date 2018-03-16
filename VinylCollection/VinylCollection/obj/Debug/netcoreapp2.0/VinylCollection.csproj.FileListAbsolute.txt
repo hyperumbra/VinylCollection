@@ -1,0 +1,12 @@
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\bin\Debug\netcoreapp2.0\VinylCollection.deps.json
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\bin\Debug\netcoreapp2.0\VinylCollection.runtimeconfig.json
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\bin\Debug\netcoreapp2.0\VinylCollection.runtimeconfig.dev.json
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\bin\Debug\netcoreapp2.0\VinylCollection.dll
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\bin\Debug\netcoreapp2.0\VinylCollection.pdb
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\obj\Debug\netcoreapp2.0\VinylCollection.csprojResolveAssemblyReference.cache
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\obj\Debug\netcoreapp2.0\VinylCollection.csproj.CoreCompileInputs.cache
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\obj\Debug\netcoreapp2.0\VinylCollection.AssemblyInfoInputs.cache
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\obj\Debug\netcoreapp2.0\VinylCollection.AssemblyInfo.cs
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\obj\Debug\netcoreapp2.0\VinylCollection.dll
+C:\Users\Soarin\Desktop\VinylCollection\VinylCollection\obj\Debug\netcoreapp2.0\VinylCollection.pdb
